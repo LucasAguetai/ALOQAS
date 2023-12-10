@@ -39,7 +39,7 @@ def split_file(input_file, output_base_folder, dataset_type, articles_per_file, 
 
 # Utilisation de la fonction
 base_path = Path("/Users/samueldorismond/Documents/Cours_BUT3/ALOQAS/Ressources/pubmed-dataset")
-output_base = "Ressources/chunking-dataset"
+output_base = "../chunking-dataset"
 
 split_file(base_path / "test.txt", output_base, "train", 1000, 10)
 split_file(base_path / "train.txt", output_base, "test", 1000, 20)
