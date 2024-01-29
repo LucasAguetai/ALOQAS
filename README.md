@@ -1,6 +1,7 @@
 # Algorithmic Learning and Optimized Quantum Artificial Solutions (ALOQAS)
 
-<a href="https://huggingface.co/alexandre-huynh/ALOQAS">Lien vers le repository HuggingFace</a>
+<a href="https://huggingface.co/alexandre-huynh/ALOQAS">Lien vers le repository HuggingFace</a><br />
+<a href="https://drive.google.com/drive/folders/1MrW-UftHd0HVgLjJ_C5HmwBG3ymEY_qY?usp=drive_link">Lien vers les notebooks Google Colaboratory</a>
 
 ## Projet : Création d'un Système de Chatbot Conversationnel basé sur GPT-2
 
